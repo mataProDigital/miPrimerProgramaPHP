@@ -1,6 +1,6 @@
 <?php
 
-$horas = readline("Por favor, ingresa el numero de horas: ");
+$horas = readline("Por favor, ingresa el numero de Horas: ");
 $minutos = readline("Por favor, ingresa los minutos: ");
 $segundos = readline("Por favor, ingresa los segundos: ");
 
